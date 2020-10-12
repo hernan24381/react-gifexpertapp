@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { GiftExperApp } from './GiftExperApp';
+import { GifExperApp } from './GifExperApp';
 import './index.css';
 
 
 
 ReactDOM.render(
-    <GiftExperApp />,
+    <GifExperApp />,
   document.getElementById('root')
 );
 
